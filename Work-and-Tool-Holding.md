@@ -1,4 +1,4 @@
-#Work and Tool Holding
+**Work and Tool Holding**
 
 Here are some links and notes for selecting the right work holding and tools for your operation:
 
@@ -7,7 +7,7 @@ Here are some links and notes for selecting the right work holding and tools for
 -move on five axes: the spindle travels 4.55" side to side; the table travels 5" front to back, 3.55" up and down, tilts 160°, and rotates 360°.
 
 
-<a href = "https://www.pentamachine.com/blog/third-party-workholding-options?srsltid=AfmBOooQRmHjtLtXLoJF1-m0WSH2WS6rcksvGTf_Wvz6kqJcw89ECS_s" >Clickable Text</a>
+<a href = "https://www.pentamachine.com/blog/third-party-workholding-options?srsltid=AfmBOooQRmHjtLtXLoJF1-m0WSH2WS6rcksvGTf_Wvz6kqJcw89ECS_s" > Work Holding Options</a>
 
 
 
