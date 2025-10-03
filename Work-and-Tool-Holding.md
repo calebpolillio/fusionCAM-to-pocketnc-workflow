@@ -4,6 +4,7 @@ Here are some links and notes for selecting the right work holding and tools for
 
 
 -mill plastic, wood, and soft metal pieces up to x4.55" × y5" × z3.55" (115.57 mm × 127 mm × 90.17 mm)
+
 -move on five axes: the spindle travels 4.55" side to side; the table travels 5" front to back, 3.55" up and down, tilts 160°, and rotates 360°.
 
 
