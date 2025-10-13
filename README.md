@@ -23,7 +23,7 @@ This repository is a step by step workflow guide to get you from your Fusion 360
 
 -Fusion 360 CAM
 
--basic machining knowledge
+-Basic machining knowledge
 
 -Understanding of CNC machining
 
